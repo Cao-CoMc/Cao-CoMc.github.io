@@ -1,4 +1,4 @@
-const API = "https://api.mcsrvstat.us/2/frp-nut.com:44691"; // 请替换为实际地址或使用代理
+const API = "https://api.mcsrvstat.us/2/frp-web.com:40319"; // 请替换为实际地址或使用代理
 let chart;
 
 // 获取完整时间格式（用于时间轴显示）
